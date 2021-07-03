@@ -1,37 +1,64 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html lang="en">
 
-You can use the [editor on GitHub](https://github.com/sjmckinlay/sjmckinlay.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+<head itemscope itemtype="http://schema.org/WebSite">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
+    <link rel="canonical" href="//sjmckinlay.com" itemprop="url">
+    
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+    
+    <title itemprop='name'>Statistical Analysis for a Modern Era</title>
+    
 
-### Markdown
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+    <!-- Custom CSS -->
+    <link href="css/landing-page.css" rel="stylesheet">
 
-```markdown
-Syntax highlighted code block
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="//fonts.googleapis.com/css?family=Lato:300,400,700,300italic,400italic,700italic" rel="stylesheet" type="text/css">
 
-# Header 1
-## Header 2
-### Header 3
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+</head>
 
-- Bulleted
-- List
+<body>
+    <div class="intro-header">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="intro-message">
+                        
+                        <h1 id="hdrDescription">This website is under construction.  Stay tuned for a developing portfolio.</h1>
+                        
+                        <hr class="intro-divider">
+                        
+                        <h2> <a class="email-address" id="lnkEmailAddress" href="mailto:sj%40sjmckinlay.com">sj@sjmckinlay.com</a></h2>
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- /.container -->
+    </div>
+    <!-- /.intro-header -->
 
-1. Numbered
-2. List
+    <!-- jQuery -->
+    <script src="js/jquery.js"></script>
 
-**Bold** and _Italic_ and `Code` text
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
 
-[Link](url) and ![Image](src)
-```
+    
+</body>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sjmckinlay/sjmckinlay.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
